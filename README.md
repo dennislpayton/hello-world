@@ -20,22 +20,22 @@ Just a repository to get familiar with GitHub
 
 Able to manage customer relationships, technology business models, and marketing savvy to develop and implement strategies for launching new and existing products driving growth and revenue. Comprehensive knowledge of diverse technologies including cloud computing; business applications; computer hardware, software, and firmware; virtual computing; and networking. Extraordinary ability to understand and communicate complex technologies to create marketing content, business value, and positioning in target markets. Proactively able to identify emerging markets to inform and guide new product development.
 
-  * Leadership/communication skills
-  * Excellent written and verbal communicator
-  * Product Strategy & Road-Mapping
-  * End to end Product Lifecycle Mgmt
-  * Customer and Partner engagement
-  * Go-to-market strategy development
-  * Event Marketing and Event Strategy
-  * Resonating messaging & positioning
-  * Marketing content and sales enablement tools
-  * Strategic, Tactical & Technical Sales support
-  * Passion for new Technologies & Products
-  * Quantitative Analysis & decisive solutions
-  * Market segmentation
-  * Pricing & Packaging strategies
-  * Detailed Competitive analysis
-  * Market research and analysis
-  * Sales Enablement Product Differentiation
-  * Enthusiastic team player!
-  * Event and Development Facilitation Leader
+  - [ ] Leadership/communication skills
+  - [ ] Excellent written and verbal communicator
+  - [ ] Product Strategy & Road-Mapping
+  - [ ] End to end Product Lifecycle Mgmt
+  - [ ] Customer and Partner engagement
+  - [ ] Go-to-market strategy development
+  - [ ] Event Marketing and Event Strategy
+  - [ ] Resonating messaging & positioning
+  - [ ] Marketing content and sales enablement tools
+  - [ ] Strategic, Tactical & Technical Sales support
+  - [ ] Passion for new Technologies & Products
+  - [ ] Quantitative Analysis & decisive solutions
+  - [ ] Market segmentation
+  - [ ] Pricing & Packaging strategies
+  - [ ] Detailed Competitive analysis
+  - [ ] Market research and analysis
+  - [ ] Sales Enablement Product Differentiation
+  - [ ] Enthusiastic team player!
+  - [ ] Event and Development Facilitation Leader
