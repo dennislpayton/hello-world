@@ -39,3 +39,9 @@ Able to manage customer relationships, technology business models, and marketing
   - [x] Sales Enablement Product Differentiation
   - [x] Enthusiastic team player!
   - [x] Event and Development Facilitation Leader
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
