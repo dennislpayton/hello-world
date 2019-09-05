@@ -43,15 +43,15 @@ Able to manage customer relationships, technology business models, and marketing
 
 Metric | Performance
 ------------ | -------------
-Products Launched | * 50+
-Partner Solutions & Distribution Channels Launched |  * 50+
-Revenue Growth | * 330%
-Add-on Revenue | * 200%
-Event Cost Reduction | * 70%
-Lead Increase | * 500%
-Customer Benchmarks | * 75 in 60 days
-New Product Customers | * 160 in 9 months
-Digital Social Footprint | * 2X
-Fortune 50 customer | * *“Supplier of the Year”*
-Global R&D Management | * $220M
-Peer Achievement and President’s Awards | * 3
+Products Launched | 50+
+Partner Solutions & Distribution Channels Launched |  50+
+Revenue Growth | 330%
+Add-on Revenue | 200%
+Event Cost Reduction | 70%
+Lead Increase | 500%
+Customer Benchmarks | 75 in 60 days
+New Product Customers | 160 in 9 months
+Digital Social Footprint | 2X
+Fortune 50 customer | *“Supplier of the Year”*
+Global R&D Management | $220M
+Peer Achievement and President’s Awards | 3
