@@ -2,9 +2,7 @@
 Just a repository to get familiar with GitHub
 
 ## About Me:
-**Exceptional career** in marketing with strong business, engineering and product development experience.
-
-Passion working with people and teams leading through positive inflection points of growth and development.
+**Exceptional career** in marketing with strong business, engineering and product development experience. Passion working with people and teams leading through positive inflection points of growth and development.
 
 **Innovative and results-oriented professional:**
  * 50+ Products Launched
