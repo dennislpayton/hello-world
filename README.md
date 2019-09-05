@@ -20,10 +20,10 @@ Just a repository to get familiar with GitHub
 
 Able to manage customer relationships, technology business models, and marketing savvy to develop and implement strategies for launching new and existing products driving growth and revenue. Comprehensive knowledge of diverse technologies including cloud computing; business applications; computer hardware, software, and firmware; virtual computing; and networking. Extraordinary ability to understand and communicate complex technologies to create marketing content, business value, and positioning in target markets. Proactively able to identify emerging markets to inform and guide new product development.
 
-  - [ ] Leadership/communication skills
-  - [ ] Excellent written and verbal communicator
-  - [ ] Product Strategy & Road-Mapping
-  - [ ] End to end Product Lifecycle Mgmt
+  - [x] Leadership/communication skills
+  - [x] Excellent written and verbal communicator
+  - [x] Product Strategy & Road-Mapping
+  - [x] End to end Product Lifecycle Mgmt
   - [ ] Customer and Partner engagement
   - [ ] Go-to-market strategy development
   - [ ] Event Marketing and Event Strategy
