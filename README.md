@@ -24,18 +24,18 @@ Able to manage customer relationships, technology business models, and marketing
   - [x] Excellent written and verbal communicator
   - [x] Product Strategy & Road-Mapping
   - [x] End to end Product Lifecycle Mgmt
-  - [ ] Customer and Partner engagement
-  - [ ] Go-to-market strategy development
-  - [ ] Event Marketing and Event Strategy
-  - [ ] Resonating messaging & positioning
-  - [ ] Marketing content and sales enablement tools
-  - [ ] Strategic, Tactical & Technical Sales support
-  - [ ] Passion for new Technologies & Products
-  - [ ] Quantitative Analysis & decisive solutions
-  - [ ] Market segmentation
-  - [ ] Pricing & Packaging strategies
-  - [ ] Detailed Competitive analysis
-  - [ ] Market research and analysis
-  - [ ] Sales Enablement Product Differentiation
-  - [ ] Enthusiastic team player!
-  - [ ] Event and Development Facilitation Leader
+  - [x] Customer and Partner engagement
+  - [x] Go-to-market strategy development
+  - [x] Event Marketing and Event Strategy
+  - [x] Resonating messaging & positioning
+  - [x] Marketing content and sales enablement tools
+  - [x] Strategic, Tactical & Technical Sales support
+  - [x] Passion for new Technologies & Products
+  - [x] Quantitative Analysis & decisive solutions
+  - [x] Market segmentation
+  - [x] Pricing & Packaging strategies
+  - [x] Detailed Competitive analysis
+  - [x] Market research and analysis
+  - [x] Sales Enablement Product Differentiation
+  - [x] Enthusiastic team player!
+  - [x] Event and Development Facilitation Leader
