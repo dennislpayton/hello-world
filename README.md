@@ -2,14 +2,23 @@
 Just a repository to get familiar with GitHub
 
 ## About Me:
-** Exceptional career ** in marketing with strong business, engineering and product development experience.
+**Exceptional career** in marketing with strong business, engineering and product development experience.
 
 Passion working with people and teams leading through positive inflection points of growth and development.
 
-** Innovative and results-oriented professional: **
-50+ Products Launched, 50+ Partner Solutions & Distribution Channels Launched, 330% Revenue Growth; 200% Add-on Revenue; 70% Event Cost Reduction; 500% Lead Increase;
-75 Customer Benchmarks, 60 days; 160 New Product Customers, 9 months; 2X Digital Social Footprint
-“Supplier of the Year” - Fortune 50 customer; $220M Global R&D Management; 3 Peer Achievement and President’s Awards;
+**Innovative and results-oriented professional:**
+ * 50+ Products Launched
+ * 50+ Partner Solutions & Distribution Channels Launched
+ * 330% Revenue Growth
+ * 200% Add-on Revenue
+ * 70% Event Cost Reduction
+ * 500% Lead Increase
+ * 75 Customer Benchmarks, 60 days
+ * 160 New Product Customers, 9 months
+ * 2X Digital Social Footprint
+ * *“Supplier of the Year”* - Fortune 50 customer
+ * $220M Global R&D Management
+ * 3 Peer Achievement and President’s Awards;
 
 Able to manage customer relationships, technology business models, and marketing savvy to develop and implement strategies for launching new and existing products driving growth and revenue. Comprehensive knowledge of diverse technologies including cloud computing; business applications; computer hardware, software, and firmware; virtual computing; and networking. Extraordinary ability to understand and communicate complex technologies to create marketing content, business value, and positioning in target markets. Proactively able to identify emerging markets to inform and guide new product development.
 
