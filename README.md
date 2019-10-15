@@ -1,4 +1,4 @@
-# hello-world
+# Dennis Payton
 Just a repository to get familiar with GitHub
 
 ## About Me:
